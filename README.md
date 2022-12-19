@@ -8,7 +8,7 @@ The code was produced in C++ with Blit3D engine, and Wwise for audio in developm
 
 ## Getting Started
 
-The program consists of bouncing balls with different gravities in different directions.
+The program consists in a Game with Spaceship trying to hit bouncing balls with different gravities. Every time you hit a ball, it changes the velocity.
 
 ### Dependencies
 
