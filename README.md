@@ -1,5 +1,5 @@
-# BouncingBallsGameIntegratedAudio
-Bouncing balls game with audio Integrated
+# SpaceBouncingBallsGameIntegratedAudio
+Space Bouncing balls game with audio Integrated
 Simple overview of use/purpose.
 
 ## Description
