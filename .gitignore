@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Folders
+x64/
+Blit3Dv3/x64
